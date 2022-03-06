@@ -9,7 +9,4 @@ layout: preorder
 ---
 
 
-<body style="margin:0px;padding:0px;overflow:hidden">
-<iframe src="https://www.cognitoforms.com/f/c0jy0ysI1UmgXk0t-LsNmQ/1" style="border:0;width:100%;" height="938"></iframe>
-<script src="https://www.cognitoforms.com/f/iframe.js"></script>
-</body>
+<script src="https://www.cognitoforms.com/f/seamless.js" data-key="c0jy0ysI1UmgXk0t-LsNmQ" data-form="1"></script>
