@@ -6,6 +6,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: preorder
-title: 
+title: null
 ---
 <script src="https://www.cognitoforms.com/f/seamless.js" data-key="c0jy0ysI1UmgXk0t-LsNmQ" data-form="1"></script>
